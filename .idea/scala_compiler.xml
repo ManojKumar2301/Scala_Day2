@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="MyScalaProject,MyScalaProject.main,MyScalaProject.test,Scala_Day2,Scala_Day2.main,Scala_Day2.test" />
+  </component>
+</project>

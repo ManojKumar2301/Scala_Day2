@@ -1,4 +1,4 @@
-package Assignment5
+package org.fp.Assignment5
 
 object Assignment5 extends App {
     def computeArea(r: Double): Double = {
